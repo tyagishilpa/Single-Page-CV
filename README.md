@@ -32,4 +32,6 @@ Uses headings, paragraphs, and lists for structured layout
 Easily customizable for any profile
 
 **Project URL: https://github.com/tyagishilpa/Single-Page-CV**
+
+
 **Roadmap Developer_Project Link:https://roadmap.sh/projects/single-page-cv**
