@@ -30,3 +30,5 @@ Clearly divided sections: Skills, Education, Work Experience
 Uses headings, paragraphs, and lists for structured layout
 
 Easily customizable for any profile
+
+**Project URL: https://github.com/tyagishilpa/Single-Page-CV**
